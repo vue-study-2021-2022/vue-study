@@ -35,13 +35,24 @@ Vue2.x Study 발표 자료
 [2주차] (2021.11.10)
 -----------------------
 > [시작하기](https://kr.vuejs.org/v2/guide/index.html)  
-> [Vue 인스턴스](https://kr.vuejs.org/v2/guide/instance.html)  
+>> [편도걸](./2week/시작하기_편도걸.md)  
+> 
+> [Vue 인스턴스](https://kr.vuejs.org/v2/guide/instance.html)
+>> [배소희](./2week/Vue_인스턴스_배소희.pdf)  
+>> [이지현]  
+>> [장인천](./2week/Vue_인스턴스_장인천.pdf)  
 
 [3주차] (2021.11.17)
 -----------------------
-> [템플릿 문법](https://kr.vuejs.org/v2/guide/syntax.html)  
-> [computed와 watch](https://kr.vuejs.org/v2/guide/computed.html)  
+> [템플릿 문법](https://kr.vuejs.org/v2/guide/syntax.html)
+>> [배소희](./3week/탬플릿_문법_배소희.pdf)  
+>> [장인천](./3week/템플릿_문법_장인천.pdf)
+> 
+> [computed와 watch](https://kr.vuejs.org/v2/guide/computed.html)
+>> [이지현]
+> 
 > [클래스와 스타일 바인딩](https://kr.vuejs.org/v2/guide/class-and-style.html)
+>> [편도걸]
 
 [4주차] (2021.11.24)
 -----------------------
