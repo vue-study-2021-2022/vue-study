@@ -1,6 +1,6 @@
 2주차
 ======================
-###[시작하기_공식문서](https://kr.vuejs.org/v2/guide/index.html)
+###[시작하기_공식문서](https://kr.vuejs.org/v2/guide/index.html)  
 
 - [발표자_편도걸](./시작하기_편도걸.md)
 
