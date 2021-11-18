@@ -34,8 +34,8 @@ Vue2.x Study 발표 자료
 
 [2주차] (2021.11.10)
 -----------------------
-> [시작하기](https://kr.vuejs.org/v2/guide/index.html)
-> [Vue 인스턴스](https://kr.vuejs.org/v2/guide/instance.html)
+> [시작하기](https://kr.vuejs.org/v2/guide/index.html)  
+> [Vue 인스턴스](https://kr.vuejs.org/v2/guide/instance.html)  
 
 [3주차] (2021.11.17)
 -----------------------
