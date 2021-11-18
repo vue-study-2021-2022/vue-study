@@ -32,36 +32,12 @@ Vue2.x Study 발표 자료
 -----------------------
 > 스터디 킥오프로 진행 방향과 목표에 대한 논의
 
-[2주차] (2021.11.10)
+[2주차](./2week/README.md) (2021.11.10)
 -----------------------
-> [시작하기_공식문서](https://kr.vuejs.org/v2/guide/index.html)  
->> [발표자_편도걸](./2week/시작하기_편도걸.md)  
 
-> [Vue 인스턴스_공식문서](https://kr.vuejs.org/v2/guide/instance.html)
->> [발표자_배소희](./2week/Vue_인스턴스_배소희.pdf)  
->> [발표자_이지현]  
->> [발표자_장인천](./2week/Vue_인스턴스_장인천.pdf)  
-
-[3주차] (2021.11.17)
+[3주차](./3week/README.md) (2021.11.17)
 -----------------------
-> [템플릿 문법_공식문서](https://kr.vuejs.org/v2/guide/syntax.html)
->> [발표자_배소희](./3week/탬플릿_문법_배소희.pdf)  
->> [발표자_장인천](./3week/템플릿_문법_장인천.pdf)
 
-> [computed와 watch_공식문서](https://kr.vuejs.org/v2/guide/computed.html)
->> [발표자_이지현]
-
-> [클래스와 스타일 바인딩_공식문서](https://kr.vuejs.org/v2/guide/class-and-style.html)
->> [발표자_편도걸]
-
-[4주차] (2021.11.24)
+[4주차](./4week/README.md) (2021.11.24)
 -----------------------
-> [조건부 렌더링_공식문서](https://kr.vuejs.org/v2/guide/conditional.html)
->>  
-
-> [리스트 렌더링_공식문서](https://kr.vuejs.org/v2/guide/list.html)
->>
-
-> [이벤트 핸들링_공식문서](https://kr.vuejs.org/v2/guide/events.html)
->>  
 
