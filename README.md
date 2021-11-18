@@ -7,15 +7,15 @@ Vue2.x Study 발표 자료
 
 ---
 
-### 배소희 [<img src="./_images/github.png" width="10" alt="깃허브_로고">](https://naver.com)
+### 배소희 [<img src="./_images/github.png" width="15" alt="깃허브_로고">](https://naver.com)
 
-### 이병무 [<img src="./_images/github.png" width="15" alt="깃허브_로고">](https://github.com/backsboys)
+### 이병무 [<img src="./_images/github.png" width="16" alt="깃허브_로고">](https://github.com/backsboys)
 
-### 이지현 [<img src="./_images/github.png" width="20" alt="깃허브_로고">](https://naver.com)
+### 이지현 [<img src="./_images/github.png" width="17" alt="깃허브_로고">](https://naver.com)
 
-### 장인천 [<img src="./_images/github.png" width="25" alt="깃허브_로고">](https://naver.com)
+### 장인천 [<img src="./_images/github.png" width="18" alt="깃허브_로고">](https://naver.com)
 
-### 편도걸 [<img src="./_images/github.png" width="30" alt="깃허브_로고">](https://naver.com)
+### 편도걸 [<img src="./_images/github.png" width="19" alt="깃허브_로고">](https://naver.com)
 
 [1주차] - 스터디 킥오프
 -----------------------
