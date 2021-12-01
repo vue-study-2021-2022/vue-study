@@ -22,9 +22,11 @@ Vue2.x Study 발표 자료
 
 > 간단한 자기소개
 
-### [장인천](https://naver.com)
+### [장인천](https://github.com/JangHarry)
 
-> 간단한 자기소개
+> Vue 스터디에 참여하여 해당 framework 사용법을 배우고 있습니다. (2021.11~)
+> 백앤드(Java), 프론트(html, css, js) 를 다루는 만 2년차 개발자입니다. 
+> 항상 발전해 나가고, 원활한 커뮤니케이션을 할 수 있는 개발자를 목표로 하고 있습니다.
 
 ### [편도걸](https://github.com/DoGeol)
 
