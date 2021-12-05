@@ -20,7 +20,7 @@ Vue2.x Study 발표 자료
 
 ### [이지현](https://naver.com)
 
-> 간단한 자기소개
+> 퍼블리싱 4년차, vue js를 사용한 프론트 엔드 8개월차 햇병아리 개발자입니다. 
 
 ### [장인천](https://github.com/JangHarry)
 
