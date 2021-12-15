@@ -50,3 +50,8 @@ Vue2.x Study 발표 자료
 
 [6주차](./6week/README.md) (2021.12.06)
 -----------------------
+
+[7주차] Trello Toy Project (2021.12.15)
+-----------------------
+
+* 편도걸 : https://github.com/DoGeol/vue_study_trello
